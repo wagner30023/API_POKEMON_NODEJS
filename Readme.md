@@ -11,4 +11,4 @@
  - npm i readline-sync
  - npm i axios
 
-
+ - execute o arquivo: node index.js
